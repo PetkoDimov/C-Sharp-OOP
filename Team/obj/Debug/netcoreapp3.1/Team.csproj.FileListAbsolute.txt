@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.exe
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.deps.json
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.json
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.dll
+E:\SoftUni20\C# OOP\Encapsulation\Team\bin\Debug\netcoreapp3.1\Team.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.dll
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Team\obj\Debug\netcoreapp3.1\Team.genruntimeconfig.cache

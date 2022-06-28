@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.exe
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.deps.json
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.runtimeconfig.json
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.dll
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\bin\Debug\netcoreapp3.1\Sort Persons By Name And Age.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.dll
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Sort Persons By Name And Age\obj\Debug\netcoreapp3.1\Sort Persons By Name And Age.genruntimeconfig.cache

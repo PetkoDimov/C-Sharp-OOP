@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKxsk3751mF4rWYspHmn4lgRaHqb1I6THDmZyygzxoxYZ8wAtlC9k4fynuguiXttcuzkVrw8KYgSH7ZfvsFtpA==",
+  "success": true,
+  "projectFilePath": "E:\\SoftUni20\\C# OOP\\Encapsulation\\Shopping Spree\\ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Close2die\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Close2die\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
