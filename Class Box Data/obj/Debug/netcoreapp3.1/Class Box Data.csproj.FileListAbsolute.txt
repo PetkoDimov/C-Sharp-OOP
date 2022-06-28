@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.exe
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.deps.json
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.runtimeconfig.json
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.dll
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.dll
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.genruntimeconfig.cache

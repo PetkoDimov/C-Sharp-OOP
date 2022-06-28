@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+E:\SoftUni20\C# OOP\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
