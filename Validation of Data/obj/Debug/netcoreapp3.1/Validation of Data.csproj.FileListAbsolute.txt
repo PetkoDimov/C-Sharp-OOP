@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.exe
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.deps.json
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.json
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.dll
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\bin\Debug\netcoreapp3.1\Validation of Data.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.dll
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.pdb
+E:\SoftUni20\C# OOP\Encapsulation\Validation of Data\obj\Debug\netcoreapp3.1\Validation of Data.genruntimeconfig.cache
