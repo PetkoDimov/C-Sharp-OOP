@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+E:\SoftUni20\C# OOP\Exams\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+E:\SoftUni20\C# OOP\Exams\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
