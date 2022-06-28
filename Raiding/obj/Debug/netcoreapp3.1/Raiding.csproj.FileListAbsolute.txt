@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+E:\SoftUni20\C# OOP\Polimorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache
