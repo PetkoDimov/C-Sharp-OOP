@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.exe
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.deps.json
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.json
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.dll
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.pdb
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.dll
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.pdb
+E:\SoftUni20\C# OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.genruntimeconfig.cache
