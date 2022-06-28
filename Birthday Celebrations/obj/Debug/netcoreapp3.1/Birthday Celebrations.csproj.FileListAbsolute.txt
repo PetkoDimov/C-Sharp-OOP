@@ -1,0 +1,13 @@
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.exe
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.deps.json
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.runtimeconfig.json
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.runtimeconfig.dev.json
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.dll
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\bin\Debug\netcoreapp3.1\Birthday Celebrations.pdb
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.csprojAssemblyReference.cache
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.AssemblyInfoInputs.cache
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.AssemblyInfo.cs
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.csproj.CoreCompileInputs.cache
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.dll
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.pdb
+E:\SoftUni20\C# OOP\Interfaces And Abstraction\Birthday Celebrations\obj\Debug\netcoreapp3.1\Birthday Celebrations.genruntimeconfig.cache
